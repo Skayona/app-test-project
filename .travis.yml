@@ -16,3 +16,5 @@ deploy:
  api_key:
   secure: "46de7f1d-dbb4-4a76-b758-02b576ae40b3"
  app: app-test-project
+ on:
+  tags: true
