@@ -18,3 +18,4 @@ deploy:
  app: app-test-project
  on:
   tags: true
+  branch: master
