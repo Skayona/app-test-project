@@ -8,7 +8,6 @@ install: npm install
 
 branches:
  only:
- - master
  - /^(?i:deploy)-.*$/
 
 deploy:
